@@ -783,9 +783,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0c6870f8c2f76545bd587e349b82c9e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  defaultWidth: 50
-  defaultLength: 50
-  tileSize: 0.25
+  defaultWidth: 100
+  defaultLength: 100
+  tileSize: 1
   Material: {fileID: 2100000, guid: 060f4ffda86c10b41b12d87d012fb035, type: 2}
 --- !u!4 &1786848517
 Transform:
