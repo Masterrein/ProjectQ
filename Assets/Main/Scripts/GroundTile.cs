@@ -46,7 +46,7 @@ public class GroundTile : MonoBehaviour
             mesh.vertices = vertices;
             mesh.triangles = triangles;
             mesh.uv = uv;
-            mesh.RecalculateNormals();
+            //mesh.RecalculateNormals();
             meshFilter.mesh = mesh;
             return mesh;
         }
